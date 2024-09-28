@@ -1,11 +1,13 @@
 import './App.css'
-import { ApiCoffeeCarrouselBasic } from './components/ApiCoffeeCarrouselBasic'
+import { WinesGalleryFetch } from './components/WinesGalleryFetch'
+
+
 
 function App() {
 
   return (
     <div>
-      <ApiCoffeeCarrouselBasic />
+      <WinesGalleryFetch />
     </div>
   )
 }
